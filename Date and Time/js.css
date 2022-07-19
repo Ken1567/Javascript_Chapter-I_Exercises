@@ -1,0 +1,14 @@
+.clock{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.circle{
+    height: 130px;
+    width: 209px;
+    border-radius: 50%;
+    background: lightblue;
+    text-align: center;
+    padding: 1%;
+    margin: auto;
+    font-size: xx-large;
+}
